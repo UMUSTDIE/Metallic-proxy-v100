@@ -58,7 +58,7 @@ function Support() {
           <Obfuscate>{t("others")}</Obfuscate>
         </div>
         <div className="itemtext">
-          <Obfuscate>{t("othersMessage")}</Obfuscate>
+          <Obfuscate>{t("Jermy Mcdonalds🔥 ")}</Obfuscate>
         </div>
       </div>
     </>
