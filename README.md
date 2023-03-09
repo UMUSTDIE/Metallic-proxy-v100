@@ -13,12 +13,7 @@
 </p>
 
 ## Features
-- Simple clean design
-- Support for many popular sites
-- Advanced customization
-- Mobile support
-- A huge library of themes
-- Customizable interface and tab
+-no features :(
 
 ## Setup
 ### Run
