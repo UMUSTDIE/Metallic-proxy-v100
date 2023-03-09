@@ -60,6 +60,9 @@ function Support() {
         <div className="itemtext">
           <Obfuscate>{t("Jermy Mcdonalds🔥 ")}</Obfuscate>
         </div>
+         <div className="itemtext">
+          <Obfuscate>{t("Jaydan for sponsering me")}</Obfuscate>
+        </div>
       </div>
     </>
   );
