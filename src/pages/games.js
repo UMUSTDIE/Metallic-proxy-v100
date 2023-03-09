@@ -12,7 +12,7 @@ function Games() {
       <Head defaultTitle="Games | Metallic"></Head>
       <Nav />
       <h1 className="title">
-        <Obfuscate>{t("comingSoon")}</Obfuscate>
+        <Obfuscate>{t("There is no games stop trying to play games in class")}</Obfuscate>
       </h1>
     </>
   );
