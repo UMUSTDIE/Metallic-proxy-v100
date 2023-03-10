@@ -1,9 +1,9 @@
 @media (prefers-color-scheme: dark) {
-  body[appearance="default"] {
-    --text: white;
+  body[appearance="real default mode"] {
+    --text: red;
     --text-contrast: white;
     --highlight: #FF0000;
-    --background: #171717;
+    --background: #FF0000;
     --placeholder: #bdc1c6;
     --font-main: "Roboto";
     --font-title: "Open Sans";
@@ -11,21 +11,6 @@
     --hover: #ffffff33;
   }
 }
-
-@media (prefers-color-scheme: light) {
-  body[appearance="default"] {
-    --text: black;
-    --text-contrast: white;
-    --highlight: #004953;
-    --background: #d8dee9;
-    --placeholder: lightgray;
-    --font-main: "Roboto";
-    --font-title: "Open Sans";
-    --secondary: #0000001a;
-    --hover: #00000033;
-  }
-}
-
 body[appearance="dark"] {
   --text: white;
   --text-contrast: white;
