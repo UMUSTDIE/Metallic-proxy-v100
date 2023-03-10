@@ -17,8 +17,8 @@ var backgrounds = {
   blocks,
   triangles,
   balls,
-  bubbles,
-  sus
+  soap,
+  amongusbackground
 };
 
 function Background() {
