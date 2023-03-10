@@ -38,10 +38,10 @@ export default function SettingsLayout({ children }) {
           <Obfuscate>{t("sidebar.search")}</Obfuscate>
         </Tab>
         <Tab to="/settings/tab.html">
-          <Obfuscate>{t("sidebar.tab")}</Obfuscate>
+          <Obfuscate>{t("sidebar.displaytab")}</Obfuscate>
         </Tab>
         <Tab to="/settings/appearance.html">
-          <Obfuscate>{t("sidebar.appearance")}</Obfuscate>
+          <Obfuscate>{t("sidebar.changelooks")}</Obfuscate>
         </Tab>
         <Tab to="/settings/ui.html">
           <Obfuscate>{t("sidebar.ui")}</Obfuscate>
