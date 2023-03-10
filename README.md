@@ -17,7 +17,7 @@
 
 ## Setup
 ### Run
-Run `npm start` to start a webserver and the Bare server. You may deploy Metallic by using an external bare server and a static file host. Metallic must be built before attempting to start.
+just run smh
 
 ### Build
 Run `npm run build` to build app for production to the `build` folder.
