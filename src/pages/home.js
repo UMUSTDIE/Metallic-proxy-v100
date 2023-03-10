@@ -138,7 +138,7 @@ function Home() {
       <Proxy ref={proxy} />
       <Nav />
       <div className="hometitle">
-        <Obfuscate>Metallic</Obfuscate>
+        <Obfuscate>BBC</Obfuscate>
       </div>
       <div ref={omniboxcontainer} className="omniboxcontainer">
         <div ref={omnibox} className="omnibox">
